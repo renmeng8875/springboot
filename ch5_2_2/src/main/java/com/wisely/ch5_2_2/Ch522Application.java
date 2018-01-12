@@ -21,7 +21,7 @@ public class Ch522Application {
 	        return "book name is:"+bookName+" and book author is:" + bookAuthor;
 	    }
 
-    public static void main(String[] args) { 
+    public static void main(String[] args) {
         SpringApplication.run(Ch522Application.class, args);
     }
 }
